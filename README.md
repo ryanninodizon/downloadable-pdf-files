@@ -1,3 +1,3 @@
 #PDF Files
-- https://github.com/ryanninodizon/downloadable-pdf-files
-- https://github.com/ryanninodizon/downloadable-pdf-files
+- Azure For Architects
+- The Developer’s Guide to Microsoft Azure
