@@ -5,3 +5,6 @@
 - Azure Data Engineering Project
 - Common DevOps Interview Question and Answer
 - Kubernetes Guide
+
+## Origin of These PDF Files
+*I found these PDF files from different online sources. I am not the author of any of them.*
